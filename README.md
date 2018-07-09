@@ -43,7 +43,4 @@ WECHAT = {
 
 ## 其他
 该 demo 只做了简单的支付功能，现金红包、企业付款、订单查询、退款等有空再加上…
-
-## ONE MORE THING...
-![wechatpy QQ 群](https://raw.githubusercontent.com/mrhaoji/mrhaoji.github.com/master/IMG_1480.JPG)
    
