@@ -42,6 +42,7 @@ def wxpay(request):
     
     return HttpResponse(json.dumps(wxpay_params))
 
+@api_view(['GET', 'POST'])
 def wxpayNotify(request):
     _xml = request.body
     #拿到微信发送的xml请求 即微信支付后的回调内容
