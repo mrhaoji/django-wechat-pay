@@ -12,6 +12,6 @@ python-dateutil==2.7.3
 pytz==2018.4
 requests==2.19.1
 six==1.11.0
-urllib3==1.23
+urllib3==1.26.5
 wechatpy==1.7.0
 xmltodict==0.11.0
